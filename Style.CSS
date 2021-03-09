@@ -1,0 +1,72 @@
+body{
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(ledzeppelin.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+	font-family: garamond;
+}
+
+h1{
+	font-family: garamond;
+	color: white;
+}
+
+p{
+	font-family: garamond;
+	color: #820742;
+}
+
+p a{
+	color: #6290ff;
+	margin-left: 10%;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+p a:hover{
+	color: white;
+}
+
+h4{	
+	font-family: garamond;
+	color: white;
+	text-align: left;
+}
+
+ol ul li{
+	font-size: 20px;
+	color: white;
+}
+
+th{	color: #FFFFFF;
+	background-color: #0d0504;
+	border-width: 1px;
+	border-style: solid;
+	border-color: orange;
+	font-size: 20pt;
+}
+
+td{	color: white;
+	background-color: #e69783;
+	border-width: 1px;
+	border-style: solid;
+	border-color: orange;
+	font-size: 20pt;
+}
+
+.pembatas{
+	margin-left: 5%;
+	width:550px;
+	height: 100%;
+}
+
+.tab{
+	background-color: black;
+	position: absolute;
+	border: dashed 7px #f90;
+    top: 0;
+    padding-top: 0px;
+    left: 0;
+    width: 1565px;
+    height: 6%;
+}
